@@ -4,9 +4,9 @@ My name is Soumyadip Adak and I'm a Web Developer
 
 ## 🔗 About me
 
-<div align="right">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
+<p align="right">
+  <img height="200" src="image.jpg"  />
+</p>
 
 ✨ Creating bugs since Java <br>
 📚 I'm currently learning Web Development and Python programming <br>
