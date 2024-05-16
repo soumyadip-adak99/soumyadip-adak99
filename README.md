@@ -1,49 +1,27 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+# Hey 👋 What's up?
 
-###
+My name is Soumyadip Adak and I'm a Web Developer 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adak99&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adak99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## 🔗 About me
 
-###
+✨ Creating bugs since Java <br>
+📚 I'm currently learning Web Development and Python programming <br>
+🎯 Goals: Full Stack Web Developer <br>
+😄 Fun fact: I love writing code in Java <br>
 
-<img align="right" height="150" src=""  />
+### Social Media links 👇
 
-###
+<p align="left">
+    <a href="https://www.linkedin.com/in/soumyadip-adak-a19b03281/"><img src="linkedin.png" alt="LinkedIn Icon" width="30px" height="auto"></a>
+    <a href="https://www.instagram.com/soumyadip_adak8888"><img src="instagram.png" alt="Instagram Icon" width="30px" height="auto"></a>
+    <a href="https://www.facebook.com/soumyadip.adak.99"><img src="facebook.png" alt="Facebook Icon" width="30px" height="auto"></a>
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-</div>
+## I code with
 
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/soumyadip-adak-a19b03281/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/soumyadip_adak8888/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.facebook.com/soumyadip.adak.99" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/adak99/adak99/output/snake.yml" alt="Snake animation" />
-
-###
+<p align="left">
+    <img src="java.png" alt="Java Icon" width="50px" height="50px">
+    <img src="javascript.png" alt="JavaScript Icon" width="50px" height="auto">
+    <img src="html.png" alt="HTML5 Icon" width="50px" height="auto">
+    <img src="css.png" alt="CSS3 Icon" width="50px" height="auto">
+</p>
