@@ -11,7 +11,7 @@ My name is Soumyadip Adak and I'm a Web Devoloper
 
 ## Socal Media links
 <p align="left">
-    <a href="#"><img src="instagram.png" alt="Instagram Icon" width="30px" height="auto">
+    <a href="https://www.instagram.com/soumyadip_adak8888/"><img src="instagram.png" alt="Instagram Icon" width="30px" height="auto">
 </p>
 
 ## I code with
