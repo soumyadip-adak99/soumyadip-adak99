@@ -11,7 +11,7 @@ My name is ... and I'm a ..., from ....
 
 ## I code with
 
-<p align="center">
+<p align="left">
     <img src="java.png" alt="Java Icon" width="50px" height="auto">
     <img src="javascript.png" alt="JavaScript Icon" width="50px" height="auto">
     <img src="html.png" alt="HTML5 Icon" width="50px" height="auto">
