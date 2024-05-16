@@ -22,7 +22,7 @@
 
 
 <img src="java.png">
-<img src="javascript.png>
+<img src="javascript.png">
 
 
 
