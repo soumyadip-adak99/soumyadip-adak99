@@ -20,9 +20,11 @@
 
 
 
-
 <img src="java.png">
 <img src="javascript.png">
+<img src="html.png">
+<img src="css.png">
+
 
 
 
