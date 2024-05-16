@@ -1,30 +1,19 @@
-<style></style>
+# Hey 👋 What's up?
 
-<h1 align="left">Hey 👋 What's up?</h1>
+My name is ... and I'm a ..., from ....
 
-###
+## 🔗 About me
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+✨ Creating bugs since ...  
+📚 I'm currently learning ...  
+🎯 Goals: ...  
+😄 Fun fact: ...
 
-###
+## I code with
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-
-
-
-<img src="java.png">
-<img src="javascript.png">
-<img src="html.png">
-<img src="css.png">
-
-
-
+<p align="center">
+    <img src="path/to/java-icon.png" alt="Java Icon" width="50px" height="auto">
+    <img src="path/to/js-icon.png" alt="JavaScript Icon" width="50px" height="auto">
+    <img src="path/to/html5-icon.png" alt="HTML5 Icon" width="50px" height="auto">
+    <img src="path/to/css3-icon.png" alt="CSS3 Icon" width="50px" height="auto">
+</p>
