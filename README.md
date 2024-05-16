@@ -4,10 +4,10 @@ My name is Soumyadip Adak and I'm a Web Devoloper
 
 ## 🔗 About me
 
-✨ Creating bugs since Java
-📚 I'm currently learning Web Developmentt and Python programming
-🎯 Goals: Full Stack Web Developer
-😄 Fun fact: I love writing code in java
+✨ Creating bugs since Java <br>
+📚 I'm currently learning Web Developmentt and Python programming <br>
+🎯 Goals: Full Stack Web Developer <br>
+😄 Fun fact: I love writing code in java <br>
 
 ## I code with
 
