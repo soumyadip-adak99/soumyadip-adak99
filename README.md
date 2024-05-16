@@ -9,11 +9,12 @@ My name is Soumyadip Adak and I'm a Web Devoloper
 🎯 Goals: Full Stack Web Developer <br>
 😄 Fun fact: I love writing code in java <br>
 
-<h4>Socal Media links
-    <p align="left">
-    <a href="https://www.instagram.com/soumyadip_adak8888/"><img src="instagram.png" alt="Instagram Icon" width="30px" height="auto">
+<h4>Socal Media links 👇</h4>
+   <p align="left">
+    <a href="https://www.linkedin.com/in/soumyadip-adak-a19b03281/"><img src="linkedin.png" alt="linkedin Icon" width="30px" height="auto">
+    <a href="https://www.instagram.com/soumyadip_adak8888"><img src="instagram.png" alt="Instagram Icon" width="30px" height="auto">
+    <a href="https://www.facebook.com/soumyadip.adak.99"><img src="facebook.png" alt="facebook Icon" width="30px" height="auto">
 </p>
-</h4>
 
 
 ## I code with
