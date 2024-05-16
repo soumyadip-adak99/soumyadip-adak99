@@ -12,8 +12,8 @@ My name is ... and I'm a ..., from ....
 ## I code with
 
 <p align="center">
-    <img src="path/to/java-icon.png" alt="Java Icon" width="50px" height="auto">
-    <img src="path/to/js-icon.png" alt="JavaScript Icon" width="50px" height="auto">
-    <img src="path/to/html5-icon.png" alt="HTML5 Icon" width="50px" height="auto">
-    <img src="path/to/css3-icon.png" alt="CSS3 Icon" width="50px" height="auto">
+    <img src="java.png" alt="Java Icon" width="50px" height="auto">
+    <img src="javascript.png" alt="JavaScript Icon" width="50px" height="auto">
+    <img src="html.png" alt="HTML5 Icon" width="50px" height="auto">
+    <img src="css.png" alt="CSS3 Icon" width="50px" height="auto">
 </p>
