@@ -25,3 +25,6 @@ My name is Soumyadip Adak and I'm a Web Developer
     <img src="html.png" alt="HTML5 Icon" width="50px" height="auto">
     <img src="css.png" alt="CSS3 Icon" width="50px" height="auto">
 </p>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/adak99/adak99/output/snake.svg" alt="Snake animation" />
