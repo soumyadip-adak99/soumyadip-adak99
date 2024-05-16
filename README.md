@@ -4,16 +4,10 @@ My name is Soumyadip Adak and I'm a Web Developer
 
 ## 🔗 About me
 
-<div align="center">
-<p align="right">
-  <img height="150px" src="image.png"  />
-</p>
-
 ✨ Creating bugs since Java <br>
 📚 I'm currently learning Web Development and Python programming <br>
 🎯 Goals: Full Stack Web Developer <br>
 😄 Fun fact: I love writing code in Java <br>
-</div>
 
 ### Social Media links 👇
 
@@ -31,6 +25,8 @@ My name is Soumyadip Adak and I'm a Web Developer
     <img src="html.png" alt="HTML5 Icon" width="50px" height="auto">
     <img src="css.png" alt="CSS3 Icon" width="50px" height="auto">
 </p>
+
+##
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adak99&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
