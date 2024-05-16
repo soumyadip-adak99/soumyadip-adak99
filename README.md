@@ -5,7 +5,7 @@ My name is Soumyadip Adak and I'm a Web Developer
 ## 🔗 About me
 
 <p align="right">
-  <img height="200" src="image.png"  />
+  <img height="150px" src="image.png"  />
 </p>
 
 ✨ Creating bugs since Java <br>
