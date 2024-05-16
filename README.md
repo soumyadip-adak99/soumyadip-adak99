@@ -4,6 +4,7 @@ My name is Soumyadip Adak and I'm a Web Developer
 
 ## 🔗 About me
 
+<div align="center">
 <p align="right">
   <img height="150px" src="image.png"  />
 </p>
@@ -12,6 +13,7 @@ My name is Soumyadip Adak and I'm a Web Developer
 📚 I'm currently learning Web Development and Python programming <br>
 🎯 Goals: Full Stack Web Developer <br>
 😄 Fun fact: I love writing code in Java <br>
+</div>
 
 ### Social Media links 👇
 
