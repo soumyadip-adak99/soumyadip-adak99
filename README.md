@@ -29,11 +29,11 @@ My name is Soumyadip Adak and I'm a Web Developer
 ##
 
 # 📊 GitHub Stats:
-<div align="center">
+<center>
 ![](https://github-readme-stats.vercel.app/api?username=adak99&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adak99&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adak99&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</div>
+</center>
 
 
 ### 🔝 Top Contributed Repo
