@@ -1,13 +1,13 @@
 # Hey 👋 What's up?
 
-My name is ... and I'm a ..., from ....
+My name is Soumyadip Adak and I'm a Web Devoloper 
 
 ## 🔗 About me
 
-✨ Creating bugs since ...  
-📚 I'm currently learning ...  
-🎯 Goals: ...  
-😄 Fun fact: ...
+✨ Creating bugs since Java
+📚 I'm currently learning Web Developmentt and Python programming
+🎯 Goals: Full Stack Web Developer
+😄 Fun fact: I love writing code in java
 
 ## I code with
 
