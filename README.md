@@ -1,6 +1,6 @@
 # Hey 👋 What's up?
 
-My name is <b>Soumyadip Adak</b> and I'm a Web Developer 
+My name is <b><i>Soumyadip Adak</i></b> and I'm a <b>Web Developer</b> 
 
 ## 🔗 About me
 
