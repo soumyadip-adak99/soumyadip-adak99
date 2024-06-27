@@ -1,6 +1,6 @@
 # Hey 👋 What's up?
 
-My name is <b><i>Soumyadip Adak</i></b> and I'm a <b><i>Web Developer</i></b> 
+My name is <b><i>Soumyadip Adak</i></b> and I'm a <b><i>Web Developer</i></b>
 
 ## 🔗 About me
 
@@ -21,6 +21,7 @@ My name is <b><i>Soumyadip Adak</i></b> and I'm a <b><i>Web Developer</i></b>
 
 <p align="left">
     <img src="java.png" alt="Java Icon" width="50px" height="50px">
+    <img src="python.png" alt="python Icon" width="50px" height="50px">
     <img src="c-programming.png" alt="C Icon" width="50px" height="50px">
     <img src="javascript.png" alt="JavaScript Icon" width="50px" height="auto">
     <img src="html.png" alt="HTML5 Icon" width="50px" height="auto">
@@ -28,6 +29,3 @@ My name is <b><i>Soumyadip Adak</i></b> and I'm a <b><i>Web Developer</i></b>
 </p>
 
 ##
-
-
-
