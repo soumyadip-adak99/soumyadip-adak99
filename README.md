@@ -3,11 +3,10 @@
 My name is <b><i>Soumyadip Adak</i></b> and I'm a <b><i>Web Developer</i></b>
 
 ## 🔗 About me
-
-✨ Creating bugs since Java <br>
 📚 I'm currently learning Web Development and Python programming <br>
+💬 Ask me about Java
 🎯 Goals: Full Stack Web Developer <br>
-😄 Fun fact: I love writing code in Java <br>
+😄 Fun fact: I love learning new skills and traveling to new places. <br>
 
 ### Social Media links 👇
 
