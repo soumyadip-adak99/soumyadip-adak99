@@ -30,12 +30,3 @@ My name is **Soumyadip Adak** and I'm a **Web Developer**.
 </p>
 
 ---
-
-### Tips for Improvement:
-
-1. **Profile Picture:** Add a profile picture to make your README more personal.
-2. **Project Links:** Include links to some of your projects or a portfolio.
-3. **More Details:** Add a section about your experience, certifications, or specific projects you are proud of.
-4. **Design Consistency:** Ensure your icons and images are of high quality and visually consistent.
-
-You can adjust the image URLs and text as needed. This version should be more attractive and professional.
