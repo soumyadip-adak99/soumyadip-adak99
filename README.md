@@ -3,7 +3,7 @@
 My name is **Soumyadip Adak** and I'm a **Web Developer**.
 
 ## 🔗 About Me
-
+- 🧑🏻‍🎓 I'm a student
 - 📚 I'm currently learning Web Development and Python programming
 - 💬 Ask me about Java
 - 🎯 Goals: Full Stack Web Developer
