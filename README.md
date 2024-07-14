@@ -6,7 +6,7 @@ My name is <b><i>Soumyadip Adak</i></b> and I'm a <b><i>Web Developer</i></b>
 📚 I'm currently learning Web Development and Python programming <br>
 💬 Ask me about Java
 🎯 Goals: Full Stack Web Developer <br>
-📧 How to reach me DM 📱work.soumyadipadak@gmail.com
+📧 How to reach me DM 📱work.soumyadipadak@gmail.comm <br>
 😄 Fun fact: I love learning new skills and traveling to new places. <br>
 
 ### Social Media links 👇
