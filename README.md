@@ -16,6 +16,7 @@ My name is **Soumyadip Adak** and I'm a **Web Developer**.
     <a href="https://www.linkedin.com/in/soumyadip-adak-a19b03281/" target="_blank"><img src="linkedin.png" alt="LinkedIn Icon" width="30px" height="auto"></a>
     <a href="https://www.instagram.com/soumyadip_adak8888" target="_blank"><img src="instagram.png" alt="Instagram Icon" width="30px" height="auto"></a>
     <a href="https://www.facebook.com/soumyadip.adak.99" target="_blank"><img src="facebook.png" alt="Facebook Icon" width="30px" height="auto"></a>
+    <a href="https://x.com/soumyadip_75790" target="_blank"><img src="icons8-twitterx-50.png" alt="Facebook Icon" width="30px" height="auto"></a>
 </p>
 
 ## I Code With
