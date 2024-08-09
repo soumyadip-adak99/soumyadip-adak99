@@ -24,8 +24,6 @@ My name is **Soumyadip Adak** and I'm a **Web Developer**.
 <p align="left">
     <img src="java.png" alt="Java Icon" width="50px" height="50px">
     <img src="python.png" alt="Python Icon" width="50px" height="50px">
-    <img src="cpp.png" alt="cpp Icon" width="50px" height="50px">
-    <img src="c-programming.png" alt="C Icon" width="50px" height="50px">
     <img src="javascript.png" alt="JavaScript Icon" width="50px" height="auto">
     <img src="html.png" alt="HTML5 Icon" width="50px" height="auto">
     <img src="css.png" alt="CSS3 Icon" width="50px" height="auto">
