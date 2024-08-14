@@ -23,8 +23,8 @@ My name is **Soumyadip Adak** and I'm a **Web Developer**.
 ## I Code With
 
 <p align="left">
-    <img src="java.png" alt="Java Icon" width="50px" height="50px">
-    <img src="python.png" alt="Python Icon" width="50px" height="50px">
+   <a href="https://github.com/adak99/JAVA-PROGRAMMING" <img src="java.png" alt="Java Icon" width="50px" height="50px"></a>
+   <a href="https://github.com/adak99/Python-programming" <img src="python.png" alt="Python Icon" width="50px" height="50px"></a>
     <img src="javascript.png" alt="JavaScript Icon" width="50px" height="auto">
     <img src="html.png" alt="HTML5 Icon" width="50px" height="auto">
     <img src="css.png" alt="CSS3 Icon" width="50px" height="auto">
