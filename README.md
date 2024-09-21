@@ -25,11 +25,11 @@ I'm a passionate **Web Developer** with a deep love for coding, especially in **
 <p align="left">
     <a href="https://github.com/adak99/JAVA-PROGRAMMING" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java Icon" width="40" height="40"></a>
     <a href="https://github.com/adak99/Python-programming" target="_blank"><img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python Icon" width="40" height="40"></a>
-    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Icon" width="40" height="40">
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++ Icon" width="40" height="40">
-    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript Icon" width="40" height="40">
-    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5 Icon" width="40" height="40">
-    <img src="https://img.icons8.com/ios-filled/50/000000/jsp.png" alt="JSP Icon" width="40" height="40">
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3 Icon" width="40" height="40">
-    <img src="https://img.icons8.com/color/48/000000/flask.png" alt="Flask Icon" width="40" height="40">
+    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Icon" width="50" height="50">
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++ Icon" width="50" height="50">
+    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript Icon" width="50" height="50">
+    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5 Icon" width="50" height="50">
+    <img src="jsp.png" alt="JSP Icon" width="40" height="40">
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3 Icon" width="50" height="50">
+    <img src="flask.png" alt="Flask Icon" width="40" height="40">
 </p>
