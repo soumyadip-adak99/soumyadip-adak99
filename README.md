@@ -32,5 +32,4 @@ I’m a passionate **Web Developer** with a strong affinity for coding, especial
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="50" height="50">
 </p>
 
----
 
