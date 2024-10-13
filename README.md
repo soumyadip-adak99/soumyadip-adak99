@@ -29,9 +29,7 @@ I’m a passionate **Web Developer** with a strong affinity for coding, especial
     <img src="cpp.png" alt="C++" width="50" height="50">
     <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="50" height="50">
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="50" height="50">
-    <img src="jsp.png" alt="JSP" width="50" height="50">
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="50" height="50">
-    <img src="flask.png" alt="Flask" width="50" height="50">
 </p>
 
 ---
