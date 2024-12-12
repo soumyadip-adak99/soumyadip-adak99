@@ -5,7 +5,7 @@ I'm a passionate **Web Developer** with a deep love for coding, especially in **
 ## 🔗 About Me
 
 - 🧑🏻‍🎓 **Student** | Lifelong Learner
-- 📚 **Learning**: Web Development | Python Programming
+- 📚 **Learning**: Web Development | Spring Boot | Python Programming
 - 💻 **Favorite Language**: Java
 - 💬 **Ask Me About**: Java, Web Development
 - 🎯 **Goal**: Full Stack Web Developer
