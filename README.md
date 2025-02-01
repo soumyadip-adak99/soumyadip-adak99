@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm **Soumyadip Adak**
 
-I'm a passionate **Web Developer** with a deep love for coding, especially in **Java**. I am currently enhancing my skills in **Web Development** and **Python programming** to achieve my goal of becoming a **Full Stack Web Developer**.
+I'm a passionate **Web Developer** with a deep love for coding, especially in **Java**. I am currently enhancing my skills in **Web Development** and **Spring boot & React Js** to achieve my goal of becoming a **Full Stack Web Developer**.
 
 ---
 
