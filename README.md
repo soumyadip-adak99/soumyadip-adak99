@@ -74,7 +74,3 @@ I'm a passionate **Web Developer** with a deep love for coding, especially in **
 If you're interested in collaborating on a project, discussing tech, or just want to connect, feel free to reach out to me via [email](mailto:work.soumyadipadak@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/soumyadip-adak-a19b03281/). Let's build something amazing together! 🚀
 
 ---
-
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=adak99&color=blueviolet" alt="Profile Views">
-</p>
