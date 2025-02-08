@@ -31,16 +31,17 @@ I'm a dedicated **Web Developer** with a strong foundation in **Java**. Currentl
 ## 🛠️ **Tech Stack & Tools**
 
 <p align="left"> 
-    <img src="java.png" height="50" width="50">
-    <img src="python.png" height="50" width="50">
-    <img src="javascript.png" height="50" width="50">
-    <img src="html.png" height="50" width="50">
-    <img src="css-3.png" height="50" width="50">
-    <img src="react-1-logo-png-transparent.png" height="50" width="50">
-    <img src="spring.png" height="50" width="50">
-    <img src="mongo-db.png" height="50" width="50">
-    <img src="mysql.png" height="50" width="50">
-    <img src="images.png" height="50" width="50">
+    <img style="padding-left:2px;"  src="java.png" height="50" width="50">
+    <img style="padding-left:2px;" src="python.png" height="50" width="50">
+    <img style="padding-left:2px;" src="javascript.png" height="50" width="50">
+    <img style="padding-left:2px;" src="html.png" height="50" width="50">
+    <img style="padding-left:2px;" src="css-3.png" height="50" width="50">
+    <img style="padding-left:2px;" src="react-1-logo-png-transparent.png" height="50" width="50">
+    <img style="padding-left:2px;" src="spring.png" height="50" width="50">
+    <img style="padding-left:2px;" src="mongo-db.png" height="50" width="50">
+    <img style="padding-left:2px;" src="mysql.png" height="50" width="50">
+    <img style="padding-left:2px;" src="docker.png" height="50" width="50">
+    <img style="padding-left:2px;" src="images.png" height="50" width="50"> 
 </p>
 
 ---
