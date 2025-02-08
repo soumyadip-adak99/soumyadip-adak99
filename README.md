@@ -1,48 +1,51 @@
-# 👋 Hey there! I'm **Soumyadip Adak**
+# 👋 Hey, I'm **Soumyadip Adak**
 
-I'm a passionate **Web Developer** with a deep love for coding, especially in **Java**. I am currently enhancing my skills in **Web Development** and **Spring boot & React Js** to achieve my goal of becoming a **Full Stack Web Developer**.
+🚀 **Passionate Web Developer | Java Enthusiast | Tech Explorer**
+
+I'm a dedicated **Web Developer** with a strong foundation in **Java**. Currently, I'm expanding my expertise in **Spring Boot & React.js** to become a proficient **Full Stack Web Developer**.
 
 ---
 
-## 🚀 About Me
+## 📌 **About Me**
 
-- 🧑🏻‍🎓 **Student** | Lifelong Learner
-- 📚 **Currently Learning**: Web Development | Spring Boot | Python Programming
+- 🎓 **Aspiring Full Stack Developer** | Lifelong Learner
+- 📚 **Currently Learning**: Web Development | Spring Boot | React.js | Python
 - 💻 **Favorite Language**: Java
-- 💬 **Ask Me About**: Java, Web Development, and anything tech-related!
-- 🎯 **Goal**: To become a proficient **Full Stack Web Developer**
-- 🌍 **Fun Fact**: I love exploring new skills and traveling to new places.
-- 📧 **Contact Me**: [work.soumyadipadak@gmail.com](mailto:work.soumyadipadak@gmail.com)
+- 💬 **Ask Me About**: Java, Web Development, and Tech Innovations
+- 🎯 **Goal**: To build scalable, high-performance applications
+- 🌍 **Fun Fact**: I love exploring new technologies and traveling to new places
+- 📩 **Contact Me**: [work.soumyadipadak@gmail.com](mailto:work.soumyadipadak@gmail.com)
 
 ---
 
-## 🌐 Connect with Me
+## 🌎 **Connect with Me**
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/soumyadip-adak-a19b03281/"><img src="linkedin.png" alt="LinkedIn Icon" width="30" height="30"></a>
-    <a href="https://www.instagram.com/soumyadip_adak8888"><img src="instagram.png" alt="Instagram Icon" width="30" height="30"></a>
-    <a href="https://www.facebook.com/soumyadip.adak.99" target="_blank"><img src="facebook.png" alt="Facebook Icon" width="30" height="30"></a>
+    <a href="https://www.linkedin.com/in/soumyadip-adak-a19b03281/"><img src="linkedin.png" heigth="45" width="45"></a>
+    <a style="padding-left:3px;" href="https://www.instagram.com/soumyadip_adak8888"><img src="instagram.png" height="45" width="45"></a>
+    <a style="padding-left:2px;" href="https://www.facebook.com/soumyadip.adak.99"><img src="facebook.png" heigth="45" width="45"></a>
 </p>
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ **Tech Stack & Tools**
 
-<p align="left">
-    <img src="java.png" alt="java" width="50" height="50">
-    <img src="python.png" alt="python" width="50" height="50">
-    <img src="javascript.png" alt="JavaScript Icon" width="50" height="50">
-    <img src="html.png" alt="html" width="50" height="50">
-    <img src="css-3.png" alt="html" width="50" height="50">
-    <img src="react-1-logo-png-transparent.png" alt="ract" width="50" height="50">
-    <img src="spring-boot.png" alt="spring-boot" width="50" height="50">
-    <img src="mongo-db.png" alt="mongo-db" width="50" height="50">
-    <img src="mysql.png" alt="mysql" width="50" height="50">
+<p align="left"> 
+    <img src="java.png" height="50" width="50">
+    <img src="python.png" height="50" width="50">
+    <img src="javascript.png" height="50" width="50">
+    <img src="html.png" height="50" width="50">
+    <img src="css-3.png" height="50" width="50">
+    <img src="react-1-logo-png-transparent.png" height="50" width="50">
+    <img src="spring.png" height="50" width="50">
+    <img src="mongo-db.png" height="50" width="50">
+    <img src="mysql.png" height="50" width="50">
+    <img src="images.png" height="50" width="50">
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 📈 **GitHub Stats**
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=adak99&show_icons=true&theme=radical" alt="GitHub Stats" width="400">
@@ -51,17 +54,15 @@ I'm a passionate **Web Developer** with a deep love for coding, especially in **
 
 ---
 
-## 🎯 Goals for 2024
+## 🎯 **2025 Goals**
 
-- **Master Full Stack Development**: Deepen my knowledge in both front-end and back-end technologies.
-- **Contribute to Open Source**: Actively participate in open-source projects to give back to the community.
-- **Build Real-World Projects**: Create impactful projects that solve real-world problems.
-- **Learn DevOps**: Gain expertise in CI/CD pipelines and cloud technologies.
-
----
-
-## 📫 Let's Collaborate!
-
-If you're interested in collaborating on a project, discussing tech, or just want to connect, feel free to reach out to me via [email](mailto:work.soumyadipadak@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/soumyadip-adak-a19b03281/). Let's build something amazing together! 🚀
+✅ **Master Full Stack Development** – Advance my skills in **React.js, Spring Boot, and Database Management**  
+✅ **Contribute to Open Source** – Engage in meaningful projects and collaborate with the community  
+✅ **Build Real-World Applications** – Work on impactful projects that solve real problems  
+✅ **Learn DevOps & Cloud Technologies** – Gain expertise in **CI/CD pipelines, Docker, Kubernetes, and AWS**
 
 ---
+
+## 🤝 **Let's Collaborate!**
+
+If you're looking to collaborate on an exciting project or just want to discuss tech, feel free to reach out via **[email](mailto:work.soumyadipadak@gmail.com)** or connect on **[LinkedIn](https://www.linkedin.com/in/soumyadip-adak-a19b03281/)**.
