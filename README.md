@@ -39,12 +39,6 @@ I'm a dedicated Full Stack Developer with a strong foundation in Java and a grow
     <img style="padding-left:2px;" src="images.png" height="50" width="50"> 
 </p>
 
-## 📊 Development Metrics
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=adak99&show_icons=true&theme=radical" alt="GitHub Stats" width="400">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adak99&layout=compact&theme=radical" alt="Top Languages" width="400">
-</p>
-
 ## 🎯 Strategic Goals 2025
 ### Technical Excellence
 - Master Full Stack Development
@@ -76,12 +70,4 @@ I'm a dedicated Full Stack Developer with a strong foundation in Java and a grow
 ## 📬 Professional Contact
 - **Email**: [work.soumyadipadak@gmail.com](mailto:work.soumyadipadak@gmail.com)
 - **LinkedIn**: [Soumyadip Adak](https://www.linkedin.com/in/soumyadip-adak-a19b03281/)
-- **GitHub**: [adak99](https://github.com/adak99)
-
----
-
-<div align="center">
-  
-*"Committed to creating efficient, scalable, and innovative solutions in web development"*
-
-</div>
+- **GitHub**: [soumyadip-adak99](https://github.com/adak99)
