@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&vCenter=true&random=false&width=600&height=100&lines=Hello%2C+I'm+Soumyadip+Adak;Full+Stack+Developer;Software+Engineer;Java+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&vCenter=true&random=false&width=600&height=100&lines=Hello%2C+I'm+Soumyadip+Adak;Java+Enthusiast" alt="Typing SVG" />
 </div>
 
 # 💫 About Me
@@ -38,17 +38,20 @@ I'm pursuing my degree in Bachelor of Computer Applications (BCA), balancing aca
   <p>
     <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/></a>&nbsp;&nbsp;
     <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/></a>&nbsp;&nbsp;
+    <a href="#"><img width="50" height="50" src="https://img.icons8.com/fluency/48/c-programming.png" alt="C-programming"/></a>&nbsp;&nbsp;
     <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/></a>&nbsp;&nbsp;
     <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/html-5.png" alt="HTML5"/></a>&nbsp;&nbsp;
+    </p>
+    <p>
     <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/></a>
-  </p>
-  <p>
-    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring Boot"/></a>&nbsp;&nbsp;
+     <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring Boot"/></a>&nbsp;&nbsp;
     <a href="#"><img width="50" height="50" src="https://img.icons8.com/plasticine/100/react.png" alt="React"/></a>&nbsp;&nbsp;
-    <a href="#"><img width="50" height="50" src="https://img.icons8.com/fluency/48/docker.png" alt="Docker"/></a>&nbsp;&nbsp;
-    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS"/></a>&nbsp;&nbsp;
-    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/linux--v1.png" alt="Linux"/></a>
-  </p>  
+     <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/mysql-logo.png" alt="my-sql"/></a>&nbsp;&nbsp;
+    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/mongo-db.png" alt="c-programming" alt="mongo-db"/></a>&nbsp;&nbsp;
+  </p>
+  
+   
+   
 </div>
 
 ## 🚀 Current Focus
