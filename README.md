@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&vCenter=true&random=false&width=600&height=100&lines=Hello%2C+I'm+Soumyadip+Adak👋;Java+Enthusiast ☺️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&vCenter=true&random=false&width=600&height=100&lines=Hello%2C+I'm+Soumyadip+Adak👋;Java+Enthusiast+☺️" alt="Typing SVG" />
 </div>
 
 # 💫 About Me
@@ -8,7 +8,7 @@
 
 ## 🎓 Education Journey
 
-I'm pursuing my degree in Bachelor of Computer Applications (BCA), balancing academic learning with hands-on project development. Each project is an opportunity to apply classroom concepts to real-world challenges and grow my technical skills.
+I'm pursuing my Bachelor of Computer Applications (BCA) degree, balancing academic learning with hands-on project development. Each project is an opportunity to apply classroom concepts to real-world challenges and grow my technical skills.
 
 ## 🌱 Learning Journey
 
@@ -41,23 +41,20 @@ I'm pursuing my degree in Bachelor of Computer Applications (BCA), balancing aca
     <a href="#"><img width="50" height="50" src="https://img.icons8.com/fluency/48/c-programming.png" alt="C-programming"/></a>&nbsp;&nbsp;
     <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/></a>&nbsp;&nbsp;
     <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/html-5.png" alt="HTML5"/></a>&nbsp;&nbsp;
-    </p>
-    <p>
-    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/></a>
-     <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring Boot"/></a>&nbsp;&nbsp;
-    <a href="#"><img width="50" height="50" src="https://img.icons8.com/plasticine/100/react.png" alt="React"/></a>&nbsp;&nbsp;
-     <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/mysql-logo.png" alt="my-sql"/></a>&nbsp;&nbsp;
-    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/mongo-db.png" alt="c-programming" alt="mongo-db"/></a>&nbsp;&nbsp;
   </p>
-  
-   
-   
+  <p>
+    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/></a>&nbsp;&nbsp;
+    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring Boot"/></a>&nbsp;&nbsp;
+    <a href="#"><img width="50" height="50" src="https://img.icons8.com/plasticine/100/react.png" alt="React"/></a>&nbsp;&nbsp;
+    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/></a>&nbsp;&nbsp;
+    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/mongo-db.png" alt="MongoDB"/></a>&nbsp;&nbsp;
+  </p>
 </div>
 
 ## 🚀 Current Focus
 
 ```java
-class CurrentFocus {
+public class CurrentFocus {
     public static void main(String[] args) {
         String[] focus = {
             "Enterprise Web Applications with Spring Boot & React",
@@ -87,14 +84,14 @@ class CurrentFocus {
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="https://www.facebook.com/soumyadip.adak.99" target="_blank">
-    <img src="facebook.png" height='40px' alt="Facebook">
+  <a href="https://www.linkedin.com/in/soumyadip-adak-a19b03281" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" height="40px" alt="LinkedIn"/>
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/soumyadip_adak8888" target="_blank">
-    <img src="instagram.png" height='40px' alt="Instagram">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" height="40px" alt="Instagram"/>
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/soumyadip-adak-a19b03281" target="_blank">
-    <img src="linkedin.png" height='40px' alt="LinkedIn">
+  <a href="https://www.facebook.com/soumyadip.adak.99" target="_blank">
+    <img src="https://img.icons8.com/color/48/facebook-new.png" height="40px" alt="Facebook"/>
   </a>
 </div>
 
