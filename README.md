@@ -4,43 +4,50 @@
 
 # 💫 About Me
 
-> Passionate software engineer with expertise in building robust, scalable web applications. I specialize in Java backend development with modern frontend frameworks to deliver exceptional user experiences and business solutions.
+> Computer Science student passionate about building web applications and exploring software engineering. Currently focusing on Java backend development while expanding my skills in modern frontend frameworks to create meaningful projects that solve real problems.
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Focus-Web%20Development-blue" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Location-India-green" alt="Location"/>
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-orange" alt="Languages"/>
-</div>
+## 🎓 Education Journey
+
+I'm pursuing my degree in Bachelor of Computer Applications (BCA), balancing academic learning with hands-on project development. Each project is an opportunity to apply classroom concepts to real-world challenges and grow my technical skills.
 
 ## 🌱 Learning Journey
 
 <div align="center">
 
-|         Currently Learning          |       Interested In        |
-| :---------------------------------: | :------------------------: |
-| Advanced Microservices Architecture |   AI & Machine Learning    |
-|      Kubernetes Orchestration       |   Blockchain Technology    |
-|      AWS Solution Architecture      | High-Performance Computing |
-|       System Design Patterns        |      IoT Applications      |
-|      Performance Optimization       |       Cloud Security       |
+|        Currently Learning        |     Exploring Next      |
+| :------------------------------: | :---------------------: |
+|     Java Backend Development     |   Cloud Architecture    |
+|     React Frontend Framework     |  AI & Machine Learning  |
+|  Database Design & Optimization  | Mobile App Development  |
+| API Development with Spring Boot |    DevOps Practices     |
+|     Web Application Security     | Blockchain Fundamentals |
 
 </div>
+
+## 🚀 Goals
+
+- Develop a portfolio of full-stack projects showcasing my technical skills
+- Contribute to open-source projects to gain collaborative experience
+- Master core computer science concepts alongside practical development skills
+- Land an internship to gain industry experience in software development
+- Connect with fellow student developers to collaborate on innovative projects
 
 ## 💻 Tech Stack
 
 <div align="center">
-  <!-- Programming Languages -->
   <p>
-    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/></a>
-    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/></a>
-    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/></a>
-    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/html-5.png" alt="HTML5"/></a>
+    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/></a>&nbsp;&nbsp;
+    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/></a>&nbsp;&nbsp;
+    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/></a>&nbsp;&nbsp;
+    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/html-5.png" alt="HTML5"/></a>&nbsp;&nbsp;
     <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/></a>
-    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring Boot"/></a>&nbsp;
-    <a href="#"><img width="50" height="50" src="https://img.icons8.com/plasticine/100/react.png" alt="React"/></a>&nbsp;
-    <a href="#"><img width="50" height="50" src="https://img.icons8.com/fluency/48/docker.png" alt="Docker"/></a>&nbsp;
-    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS"/></a>&nbsp;
-    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/linux--v1.png" alt="Linux"/></a>&nbsp;
+  </p>
+  <p>
+    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring Boot"/></a>&nbsp;&nbsp;
+    <a href="#"><img width="50" height="50" src="https://img.icons8.com/plasticine/100/react.png" alt="React"/></a>&nbsp;&nbsp;
+    <a href="#"><img width="50" height="50" src="https://img.icons8.com/fluency/48/docker.png" alt="Docker"/></a>&nbsp;&nbsp;
+    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS"/></a>&nbsp;&nbsp;
+    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/linux--v1.png" alt="Linux"/></a>
   </p>  
 </div>
 
@@ -79,10 +86,10 @@ class CurrentFocus {
 <div align="center">
   <a href="https://www.facebook.com/soumyadip.adak.99" target="_blank">
     <img src="facebook.png" height='40px' alt="Facebook">
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/soumyadip_adak8888" target="_blank">
     <img src="instagram.png" height='40px' alt="Instagram">
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/soumyadip-adak-a19b03281" target="_blank">
     <img src="linkedin.png" height='40px' alt="LinkedIn">
   </a>
