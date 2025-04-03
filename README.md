@@ -71,7 +71,7 @@ public class CurrentFocus {
 }
 ```
 
-## 📊 GitHub Analytics
+<!--## 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=soumyadip-adak99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
@@ -93,6 +93,6 @@ public class CurrentFocus {
   <a href="https://www.facebook.com/soumyadip.adak.99" target="_blank">
     <img src="https://img.icons8.com/color/48/facebook-new.png" height="40px" alt="Facebook"/>
   </a>
-</div>
+</div> -->
 
 ---
