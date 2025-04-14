@@ -34,23 +34,7 @@ I'm pursuing my Bachelor of Computer Applications (BCA) degree, balancing academ
 
 ## 💻 Tech Stack
 
-<div align="center">
-  <p>
-    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/></a>&nbsp;&nbsp;
-    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/></a>&nbsp;&nbsp;
-    <a href="#"><img width="50" height="50" src="https://img.icons8.com/fluency/48/c-programming.png" alt="C-programming"/></a>&nbsp;&nbsp;
-    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/></a>&nbsp;&nbsp;
-    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/html-5.png" alt="HTML5"/></a>&nbsp;&nbsp;
-  </p>
-  <p>
-    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/></a>&nbsp;&nbsp;
-    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring Boot"/></a>&nbsp;&nbsp;
-    <a href="#"><img width="50" height="50" src="https://img.icons8.com/plasticine/100/react.png" alt="React"/></a>&nbsp;&nbsp;
-    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/></a>&nbsp;&nbsp;
-    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/mongo-db.png" alt="MongoDB"/></a>&nbsp;&nbsp;
-  </p>
-</div>
-
+<div align="center"> <p> <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/></a>&nbsp;&nbsp; <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/></a>&nbsp;&nbsp; <a href="#"><img width="50" height="50" src="https://img.icons8.com/fluency/48/c-programming.png" alt="C-programming"/></a>&nbsp;&nbsp; <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/></a>&nbsp;&nbsp; <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/html-5.png" alt="HTML5"/></a>&nbsp;&nbsp; </p> <p> <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/></a>&nbsp;&nbsp; <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring Boot"/></a>&nbsp;&nbsp; <a href="#"><img width="50" height="50" src="https://img.icons8.com/plasticine/100/react.png" alt="React"/></a>&nbsp;&nbsp; <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/></a>&nbsp;&nbsp; <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/mongo-db.png" alt="MongoDB"/></a>&nbsp;&nbsp; <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/docker.png" alt="Docker"/></a>&nbsp;&nbsp; <!-- Added Docker image --> </p> </div>
 ## 🚀 Current Focus
 
 ```java
@@ -70,29 +54,4 @@ public class CurrentFocus {
     }
 }
 ```
-
-<!--## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soumyadip-adak99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumyadip-adak99&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
-</div>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soumyadip-adak99&theme=tokyonight" width="98%" alt="GitHub Profile Summary"/>
-</div>
-
-## 📫 Connect With Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/soumyadip-adak-a19b03281" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" height="40px" alt="LinkedIn"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/soumyadip_adak8888" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" height="40px" alt="Instagram"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/soumyadip.adak.99" target="_blank">
-    <img src="https://img.icons8.com/color/48/facebook-new.png" height="40px" alt="Facebook"/>
-  </a>
-</div> -->
-
 ---
