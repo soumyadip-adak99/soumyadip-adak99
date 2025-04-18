@@ -34,7 +34,25 @@ I'm pursuing my Bachelor of Computer Applications (BCA) degree, balancing academ
 
 ## 💻 Tech Stack
 
-<div align="center"> <p> <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/></a>&nbsp;&nbsp; <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/></a>&nbsp;&nbsp; <a href="#"><img width="50" height="50" src="https://img.icons8.com/fluency/48/c-programming.png" alt="C-programming"/></a>&nbsp;&nbsp; <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/></a>&nbsp;&nbsp; <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/html-5.png" alt="HTML5"/></a>&nbsp;&nbsp; </p> <p> <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/></a>&nbsp;&nbsp; <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring Boot"/></a>&nbsp;&nbsp; <a href="#"><img width="50" height="50" src="https://img.icons8.com/plasticine/100/react.png" alt="React"/></a>&nbsp;&nbsp; <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/></a>&nbsp;&nbsp; <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/mongo-db.png" alt="MongoDB"/></a>&nbsp;&nbsp; <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/docker.png" alt="Docker"/></a>&nbsp;&nbsp; <!-- Added Docker image --> </p> </div>
+<div align="center"> 
+  <p> 
+    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/></a>&nbsp;&nbsp; 
+    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/></a>&nbsp;&nbsp; 
+    <a href="#"><img width="50" height="50" src="https://img.icons8.com/fluency/48/c-programming.png" alt="C-programming"/></a>&nbsp;&nbsp; 
+    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/></a>&nbsp;&nbsp; 
+    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/html-5.png" alt="HTML5"/></a>&nbsp;&nbsp; 
+     <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/></a>&nbsp;&nbsp; 
+  </p> 
+  <p> 
+    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring Boot"/></a>&nbsp;&nbsp; 
+    <a href="#"><img width="50" height="50" src="https://img.icons8.com/plasticine/100/react.png" alt="React"/></a>&nbsp;&nbsp; 
+    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL"/></a>&nbsp;&nbsp;
+    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/></a>&nbsp;&nbsp; 
+    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/mongo-db.png" alt="MongoDB"/></a>&nbsp;&nbsp; 
+    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/docker.png" alt="Docker"/></a>&nbsp;&nbsp; 
+  </p> 
+</div>
+
 ## 🚀 Current Focus
 
 ```java
