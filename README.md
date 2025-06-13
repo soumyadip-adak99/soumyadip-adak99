@@ -41,7 +41,8 @@ I'm pursuing my Bachelor of Computer Applications (BCA) degree, balancing academ
     <a href="#"><img width="50" height="50" src="https://img.icons8.com/fluency/48/c-programming.png" alt="C-programming"/></a>&nbsp;&nbsp; 
     <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/></a>&nbsp;&nbsp; 
     <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/html-5.png" alt="HTML5"/></a>&nbsp;&nbsp; 
-     <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/></a>&nbsp;&nbsp; 
+    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/></a>&nbsp;&nbsp; 
+    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind CSS"/></a>&nbsp;&nbsp; 
   </p> 
   <p> 
     <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring Boot"/></a>&nbsp;&nbsp; 
@@ -52,6 +53,7 @@ I'm pursuing my Bachelor of Computer Applications (BCA) degree, balancing academ
     <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/docker.png" alt="Docker"/></a>&nbsp;&nbsp; 
   </p> 
 </div>
+
 
 ## 🚀 Current Focus
 
