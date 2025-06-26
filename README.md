@@ -81,5 +81,5 @@ Here's a professional **GitHub-style contact section** you can use in your `READ
 
 ## 📬 Contact Me
 
-* **Email:** [soumyadipadak99@gmail.com](mailto:soumyadipadak99@gmail.com)
+* **Email:** [soumyadipadakmailbox@gmail.com](mailto:soumyadipadakmailbox@gmail.com)
 * **Portfolio:** [soumyadip-adak.pages.dev](https://soumyadip-adak.pages.dev)
