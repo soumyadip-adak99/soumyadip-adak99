@@ -75,9 +75,6 @@ public class CurrentFocus {
 }
 ```
 ---
-Here's a professional **GitHub-style contact section** you can use in your `README.md` or GitHub profile bio:
-
----
 
 ## 📬 Contact Me
 
