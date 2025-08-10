@@ -18,6 +18,7 @@ I enjoy creating web applications and exploring new technologies.
 ## 🛠 Tech Skills
 <div>
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/>
+  <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/>
 <!--   <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML5"/>
   <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/> -->
 <!--   <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/>
