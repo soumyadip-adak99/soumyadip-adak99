@@ -34,8 +34,6 @@ I'm pursuing my Bachelor of Computer Applications (BCA) degree, balancing academ
 
 ## 💻 Tech Stack
 
-## 💻 Tech Stack
-
 <div align="center"> 
 
   <!-- Languages -->
