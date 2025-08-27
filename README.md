@@ -34,42 +34,43 @@ I'm pursuing my Bachelor of Computer Applications (BCA) degree, balancing academ
 
 ## 💻 Tech Stack
 
+## 💻 Tech Stack
+
 <div align="center"> 
 
-### 🌐 Programming Languages
-<p> 
-  <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/></a>&nbsp;&nbsp; 
-  <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/></a>&nbsp;&nbsp; 
-  <a href="#"><img width="50" height="50" src="https://img.icons8.com/fluency/48/c-programming.png" alt="C"/></a>&nbsp;&nbsp; 
-  <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/></a>&nbsp;&nbsp; 
-</p>
+  <!-- Languages -->
+  <p> 
+    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/></a>&nbsp;&nbsp; 
+    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/></a>&nbsp;&nbsp; 
+    <a href="#"><img width="50" height="50" src="https://img.icons8.com/fluency/48/c-programming.png" alt="C"/></a>&nbsp;&nbsp; 
+    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/></a>&nbsp;&nbsp; 
+  </p> 
 
-### 🎨 Frontend Development
-<p> 
-  <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/html-5.png" alt="HTML5"/></a>&nbsp;&nbsp; 
-  <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/></a>&nbsp;&nbsp; 
-  <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind CSS"/></a>&nbsp;&nbsp; 
-  <a href="#"><img width="50" height="50" src="https://img.icons8.com/plasticine/100/react.png" alt="React"/></a>&nbsp;&nbsp; 
-</p>
+  <!-- Frontend -->
+  <p> 
+    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/html-5.png" alt="HTML5"/></a>&nbsp;&nbsp; 
+    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/></a>&nbsp;&nbsp; 
+    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind CSS"/></a>&nbsp;&nbsp; 
+    <a href="#"><img width="50" height="50" src="https://img.icons8.com/plasticine/100/react.png" alt="React"/></a>&nbsp;&nbsp; 
+  </p> 
 
-### ⚙️ Backend Development
-<p> 
-  <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring Boot"/></a>&nbsp;&nbsp; 
-  <a href="#"><img width="50" height="50" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="Node.js"/></a>&nbsp;&nbsp; 
-  <a href="#"><img width="50" height="50" src="https://img.icons8.com/ios/50/000000/express-js.png" alt="Express.js"/></a>&nbsp;&nbsp; 
-</p>
+  <!-- Backend -->
+  <p> 
+    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring Boot"/></a>&nbsp;&nbsp; 
+    <a href="#"><img width="50" height="50" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="Node.js"/></a>&nbsp;&nbsp; 
+  </p> 
 
-### 🛢️ Databases
-<p> 
-  <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL"/></a>&nbsp;&nbsp;
-  <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/></a>&nbsp;&nbsp; 
-  <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/mongo-db.png" alt="MongoDB"/></a>&nbsp;&nbsp; 
-</p>
+  <!-- Databases -->
+  <p> 
+    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL"/></a>&nbsp;&nbsp;
+    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/></a>&nbsp;&nbsp; 
+    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/mongo-db.png" alt="MongoDB"/></a>&nbsp;&nbsp; 
+  </p> 
 
-### 🛠️ Tools & Platforms
-<p> 
-  <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/docker.png" alt="Docker"/></a>&nbsp;&nbsp; 
-</p>
+  <!-- Tools -->
+  <p> 
+    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/docker.png" alt="Docker"/></a>&nbsp;&nbsp; 
+  </p> 
 
 </div>
 
