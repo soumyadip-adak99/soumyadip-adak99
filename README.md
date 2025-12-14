@@ -53,9 +53,7 @@ I'm pursuing my Bachelor of Computer Applications (BCA) degree, balancing academ
     <a href="#"><img width="50" height="50" src="https://img.icons8.com/plasticine/100/react.png" alt="React"/></a>&nbsp;&nbsp; 
     <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring Boot"/></a>&nbsp;&nbsp; 
     <a href="#"><img width="50" height="50" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="Node.js"/></a>&nbsp;&nbsp; 
-    <a href="#">
-    <img src="express.png" alt="express.js" width="48" height="48" style="border-radius:50%">
-    </a>&nbsp;&nbsp;
+   <a href="#"><img width="50" height="48" src="express.png" alt="express.js" /></a>&nbsp;&nbsp;
     <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL"/></a>&nbsp;&nbsp;
     <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/></a>&nbsp;&nbsp;
     <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/mongo-db.png" alt="MongoDB"/></a>&nbsp;&nbsp;
@@ -76,7 +74,7 @@ public class CurrentFocus {
         String[] focus = {
             "Enterprise Web Applications with Spring Boot & React",
             "Microservices Architecture Implementation",
-            "Learning Generative AI",
+            "Learning Generative",
             "Cloud-Native Solutions using Docker & AWS",
             "Database Optimization for High-Performance Applications",
             "Advanced System Design Patterns"
