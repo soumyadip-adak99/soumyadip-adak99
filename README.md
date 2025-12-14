@@ -26,15 +26,15 @@ I'm pursuing my Bachelor of Computer Applications (BCA) degree, balancing academ
 
 ## 🚀 Goals
 
-- Develop a portfolio of full-stack projects showcasing my technical skills  
-- Contribute to open-source projects to gain collaborative experience  
-- Master core computer science concepts alongside practical development skills  
-- Land an internship to gain industry experience in software development  
-- Connect with fellow student developers to collaborate on innovative projects  
+- Develop a portfolio of full-stack projects showcasing my technical skills
+- Contribute to open-source projects to gain collaborative experience
+- Master core computer science concepts alongside practical development skills
+- Land an internship to gain industry experience in software development
+- Connect with fellow student developers to collaborate on innovative projects
 
 ## 💻 Tech Stack
 
-<div align="center"> 
+<div align="center">
 
   <!-- Languages -->
   <p> 
@@ -46,22 +46,23 @@ I'm pursuing my Bachelor of Computer Applications (BCA) degree, balancing academ
     <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/></a>&nbsp;&nbsp; 
     <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind CSS"/></a>&nbsp;&nbsp; 
   
-  </p> 
+  </p>
 
   <!-- Backend -->
   <p> 
     <a href="#"><img width="50" height="50" src="https://img.icons8.com/plasticine/100/react.png" alt="React"/></a>&nbsp;&nbsp; 
     <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring Boot"/></a>&nbsp;&nbsp; 
     <a href="#"><img width="50" height="50" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="Node.js"/></a>&nbsp;&nbsp; 
+   <a href="#"><img width="50" height="48" src="express.png" alt="express.js" style="border-radius:50%;"/></a>&nbsp;&nbsp;
     <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL"/></a>&nbsp;&nbsp;
-    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/></a>&nbsp;&nbsp; 
-    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/mongo-db.png" alt="MongoDB"/></a>&nbsp;&nbsp; 
-  </p> 
+    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/></a>&nbsp;&nbsp;
+    <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/mongo-db.png" alt="MongoDB"/></a>&nbsp;&nbsp;
+  </p>
 
   <!-- Tools -->
   <p> 
     <a href="#"><img width="50" height="50" src="https://img.icons8.com/color/48/docker.png" alt="Docker"/></a>&nbsp;&nbsp; 
-  </p> 
+  </p>
 
 </div>
 
@@ -73,6 +74,7 @@ public class CurrentFocus {
         String[] focus = {
             "Enterprise Web Applications with Spring Boot & React",
             "Microservices Architecture Implementation",
+            "Learning Generative AI",
             "Cloud-Native Solutions using Docker & AWS",
             "Database Optimization for High-Performance Applications",
             "Advanced System Design Patterns"
@@ -83,3 +85,4 @@ public class CurrentFocus {
         }
     }
 }
+```
