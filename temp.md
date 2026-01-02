@@ -14,7 +14,7 @@ I believe in learning by doing — continuously improving through hands-on devel
 
 ## 🛠 Technical Philosophy
 
-I follow a **hands-on, engineering-first mindset** — _build, break, learn, and improve_. My approach combines strong fundamentals (DSA, OOP, DBMS) with industry best practices to ensure that every solution is **efficient, scalable, secure, and maintainable**.
+I follow a **hands-on, engineering-first mindset** — *build, break, learn, and improve*. My approach combines strong fundamentals (DSA, OOP, DBMS) with industry best practices to ensure that every solution is **efficient, scalable, secure, and maintainable**.
 
 ---
 
@@ -25,10 +25,10 @@ I follow a **hands-on, engineering-first mindset** — _build, break, learn, and
 |     **Currently Learning**     |     **Exploring Next**     |
 | :----------------------------: | :------------------------: |
 |    Java Backend Development    |  High-Level System Design  |
-|    Spring Boot & REST APIs     | Kubernetes & Orchestration |
+|     Spring Boot & REST APIs    | Kubernetes & Orchestration |
 | Database Design & Optimization |    Generative AI & LLMs    |
-|    Web Application Security    |    DevSecOps Practices     |
-|    React Frontend Framework    |      Graph Databases       |
+|    Web Application Security    |     DevSecOps Practices    |
+|    React Frontend Framework    |       Graph Databases      |
 
 </div>
 
@@ -36,17 +36,18 @@ I follow a **hands-on, engineering-first mindset** — _build, break, learn, and
 
 ## 🚀 Goals
 
-- Build a strong portfolio of **full-stack and backend-focused projects**
-- Contribute to **open-source projects** and collaborative development
-- Master **core CS fundamentals** alongside real-world engineering skills
-- Gain industry experience through **internships and professional projects**
-- Grow as a **backend / system-oriented software engineer**
+* Build a strong portfolio of **full-stack and backend-focused projects**
+* Contribute to **open-source projects** and collaborative development
+* Master **core CS fundamentals** alongside real-world engineering skills
+* Gain industry experience through **internships and professional projects**
+* Grow as a **backend / system-oriented software engineer**
 
 ---
 
 ## 💻 Tech Stack
 
 <div align="center">
+
 
 <p>
   <img width="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" />&nbsp;&nbsp;
@@ -58,6 +59,7 @@ I follow a **hands-on, engineering-first mindset** — _build, break, learn, and
   <img width="50" src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind CSS" />
 </p>
 
+
 <p>
   <img width="50" src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring Boot" />&nbsp;&nbsp;
   <img width="50" src="https://img.icons8.com/plasticine/100/react.png" alt="React" />&nbsp;&nbsp;
@@ -66,6 +68,7 @@ I follow a **hands-on, engineering-first mindset** — _build, break, learn, and
   <img width="50" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" />&nbsp;&nbsp;
   <img width="50" src="https://img.icons8.com/color/48/mongo-db.png" alt="MongoDB" />
 </p>
+
 
 <p>
   <img width="50" src="https://img.icons8.com/color/48/docker.png" alt="Docker" />&nbsp;&nbsp;
