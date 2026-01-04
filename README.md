@@ -68,6 +68,7 @@ I follow a **hands-on, engineering-first mindset** — _build, break, learn, and
 </p>
 
 <p>
+<img width="50" src="https://img.icons8.com/?size=100&id=DUsKDDZsg8FT&format=png&color=000000" alt="Redis" />&nbsp;&nbsp;
   <img width="50" src="https://img.icons8.com/color/48/docker.png" alt="Docker" />&nbsp;&nbsp;
   <img width="50" src="https://img.icons8.com/color/48/git.png" alt="Git" />
 </p>
