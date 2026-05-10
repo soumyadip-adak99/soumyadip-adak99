@@ -98,6 +98,7 @@ public class EngineeringFocus {
 ```
 
 ---
+![GitHub GIF](githubgif.gif)
 
 <p align="center">
   <i>"Great software is built where strong fundamentals meet thoughtful system design."</i>
