@@ -69,7 +69,7 @@ I follow a **hands-on, engineering-first mindset** — _build, break, learn, and
 
 <p>
   <img width="50" src="https://img.icons8.com/?size=100&id=DUsKDDZsg8FT&format=png&color=000000" alt="Redis" />&nbsp;&nbsp;
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" style="filter: brightness(0) saturate(100%) invert(48%) sepia(93%) saturate(1352%) hue-rotate(1deg) brightness(104%) contrast(104%);" alt="Apache Kafka"/>&nbsp;&nbsp;
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" style="filter: brightness(0) saturate(100%) invert(48%) sepia(93%) saturate(1352%) hue-rotate(1deg) brightness(104%) contrast(104%);" alt="Apache Kafka"/>&nbsp;&nbsp;
   <img width="50" src="https://img.icons8.com/color/48/docker.png" alt="Docker" />&nbsp;&nbsp;
   <img width="50" src="https://img.icons8.com/color/48/git.png" alt="Git" />
 </p>
