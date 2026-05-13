@@ -99,7 +99,7 @@ public class EngineeringFocus {
 ```
 
 ---
-<img src="githubgif.gif" alt="GitHub GIF" />
+![GitHub GIF](githubgif.gif)
 
 <p align="center">
   <i>"Great software is built where strong fundamentals meet thoughtful system design."</i>
