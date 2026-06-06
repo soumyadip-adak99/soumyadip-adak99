@@ -51,7 +51,6 @@ I follow a **hands-on, engineering-first mindset** — _build, break, learn, and
 <p>
   <img width="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" />&nbsp;&nbsp;
   <img width="50" src="https://img.icons8.com/color/48/python--v1.png" alt="Python" />&nbsp;&nbsp;
-  <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png"alt="Go Programming Language" width="68">
   <img width="50" src="https://img.icons8.com/fluency/48/c-programming.png" alt="C" />&nbsp;&nbsp;
   <img width="50" src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" />&nbsp;&nbsp;
   <img width="50" src="https://img.icons8.com/color/48/html-5.png" alt="HTML5" />&nbsp;&nbsp;
