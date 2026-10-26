@@ -1,5 +1,3 @@
----
-
 ## 💫 About Me
 
 I am a **passionate Software Developer** with a strong interest in **backend engineering and full-stack web development**. My primary focus is on the **Java ecosystem**, where I design and build clean, scalable, and maintainable applications. I also work with modern frontend technologies to deliver complete, user-focused solutions that solve real-world problems.
