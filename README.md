@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&vCenter=true&random=false&width=700&height=100&lines=Hello%2C+I'm+Soumyadip+Adak+👋;Java+Backend+Developer+☕;Aspiring+Full+Stack+Engineer+🚀" alt="Typing SVG" />
-</div>
-
 ---
 
 ## 💫 About Me
