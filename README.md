@@ -26,31 +26,22 @@ I am a **Software Engineer** focused on building reliable, high-throughput backe
 
   <p>
     <a href="https://skillicons.dev">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java%2Cspring%2Cnodejs%2Cexpress%2Cpostgres%2Cmysql%2Cmongodb%2Credis%2Ckafka&theme=dark">
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java%2Cspring%2Cnodejs%2Cexpress%2Cpostgres%2Cmysql%2Cmongodb%2Credis%2Ckafka&theme=light">
-        <img src="https://skillicons.dev/icons?i=java%2Cspring%2Cnodejs%2Cexpress%2Cpostgres%2Cmysql%2Cmongodb%2Credis%2Ckafka&theme=dark" alt="Backend & Databases" />
-      </picture>
+      <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,postgres,mysql,mongodb,redis,kafka&theme=dark#gh-dark-mode-only" alt="Backend & Databases" />
+      <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,postgres,mysql,mongodb,redis,kafka&theme=light#gh-light-mode-only" alt="Backend & Databases" />
     </a>
   </p>
 
   <p>
     <a href="https://skillicons.dev">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Cts%2Cjs%2Ctailwind%2Chtml%2Ccss&theme=dark">
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Cts%2Cjs%2Ctailwind%2Chtml%2Ccss&theme=light">
-        <img src="https://skillicons.dev/icons?i=react%2Cnextjs%2Cts%2Cjs%2Ctailwind%2Chtml%2Ccss&theme=dark" alt="Frontend & UI" />
-      </picture>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=dark#gh-dark-mode-only" alt="Frontend & UI" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=light#gh-light-mode-only" alt="Frontend & UI" />
     </a>
   </p>
 
   <p>
     <a href="https://skillicons.dev">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker%2Caws%2Clinux%2Cgit%2Cgithub%2Cpostman%2Cpy%2Cc&theme=dark">
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker%2Caws%2Clinux%2Cgit%2Cgithub%2Cpostman%2Cpy%2Cc&theme=light">
-        <img src="https://skillicons.dev/icons?i=docker%2Caws%2Clinux%2Cgit%2Cgithub%2Cpostman%2Cpy%2Cc&theme=dark" alt="DevOps, Tools & Languages" />
-      </picture>
+      <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,postman,py,c&theme=dark#gh-dark-mode-only" alt="DevOps, Tools & Languages" />
+      <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,postman,py,c&theme=light#gh-light-mode-only" alt="DevOps, Tools & Languages" />
     </a>
   </p>
 
