@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <rect width="256" height="256" rx="55" fill="#F3F4F6"/>
+  <defs>
+    <linearGradient id="globeGradLight" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284C7"/>
+      <stop offset="100%" stop-color="#1D4ED8"/>
+    </linearGradient>
+  </defs>
+  <!-- Globe Outer Circle -->
+  <circle cx="128" cy="128" r="70" fill="none" stroke="url(#globeGradLight)" stroke-width="14"/>
+  <!-- Equator Line -->
+  <line x1="58" y1="128" x2="198" y2="128" stroke="url(#globeGradLight)" stroke-width="14" stroke-linecap="round"/>
+  <!-- Central Meridian Line -->
+  <line x1="128" y1="58" x2="128" y2="198" stroke="url(#globeGradLight)" stroke-width="14" stroke-linecap="round"/>
+  <!-- Longitude Curve -->
+  <ellipse cx="128" cy="128" rx="36" ry="70" fill="none" stroke="url(#globeGradLight)" stroke-width="14"/>
+</svg>

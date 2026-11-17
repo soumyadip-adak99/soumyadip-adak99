@@ -1,100 +1,164 @@
-## 💫 About Me
+<h1 align="center">Soumyadip Adak</h1>
 
-I am a **passionate Software Developer** with a strong interest in **backend engineering and full-stack web development**. My primary focus is on the **Java ecosystem**, where I design and build clean, scalable, and maintainable applications. I also work with modern frontend technologies to deliver complete, user-focused solutions that solve real-world problems.
+### 💫 About Me
 
-I believe in learning by doing — continuously improving through hands-on development, experimentation, and real project experience.
+```yaml
+developer:
+  name: Soumyadip Adak
+  role: 😉
+  primary_stack: [Java 21, Spring Boot, PostgreSQL, Docker, React]
+  mindset: "Build, break, optimize, scale."
+  passions: [Distributed Systems, High-Performance Microservices, AI/RAG Integration]
+```
+
+I am a **Software Engineer** focused on building reliable, high-throughput backend services and end-to-end full-stack applications. With a primary specialization in the **Java & Spring ecosystem**, I design architectures that emphasize maintainability, data integrity, and distributed performance.
+
+- 🔭 **Backend Focus:** Building enterprise RESTful microservices, event-driven pipelines, and relational database schemas with **Spring Boot**, **PostgreSQL**, and **Docker**.
+- 🧠 **AI & Innovation:** Integrating semantic vector search and Retrieval-Augmented Generation (RAG) using **Spring AI** and **pgvector**.
+- 🎨 **Full-Stack Capability:** Crafting responsive, component-driven client interfaces using **React**, **Next.js**, and **Tailwind CSS**.
+- 📐 **Core Disciplines:** Deeply rooted in CS fundamentals — Data Structures & Algorithms, Object-Oriented Design (SOLID), and System Architecture.
 
 ---
 
-## 🛠 Technical Philosophy
-
-I follow a **hands-on, engineering-first mindset** — _build, break, learn, and improve_. My approach combines strong fundamentals (DSA, OOP, DBMS) with industry best practices to ensure that every solution is **efficient, scalable, secure, and maintainable**.
-
----
-
-## 🌱 Learning Journey
+### 💻 Tech Stack
 
 <div align="center">
 
-|     **Currently Learning**     |     **Exploring Next**     |
-| :----------------------------: | :------------------------: |
-|    Java Backend Development    |  High-Level System Design  |
-|    Spring Boot & REST APIs     | Kubernetes & Orchestration |
-| Database Design & Optimization |    Generative AI & LLMs    |
-|    Web Application Security    |    DevSecOps Practices     |
-|    React Frontend Framework    |      Graph Databases       |
+  <p>
+    <a href="https://skillicons.dev">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,nodejs,express,postgres,mysql,mongodb,redis,kafka&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,spring,nodejs,express,postgres,mysql,mongodb,redis,kafka&theme=light">
+        <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,postgres,mysql,mongodb,redis,kafka&theme=dark" alt="Backend & Databases" />
+      </picture>
+    </a>
+  </p>
+
+  <p>
+    <a href="https://skillicons.dev">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=light">
+        <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=dark" alt="Frontend & UI" />
+      </picture>
+    </a>
+  </p>
+
+  <p>
+    <a href="https://skillicons.dev">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,aws,linux,git,github,postman,py,c&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,aws,linux,git,github,postman,py,c&theme=light">
+        <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,postman,py,c&theme=dark" alt="DevOps, Tools & Languages" />
+      </picture>
+    </a>
+  </p>
 
 </div>
 
 ---
 
-## 🚀 Goals
-
-- Build a strong portfolio of **full-stack and backend-focused projects**
-- Contribute to **open-source projects** and collaborative development
-- Master **core CS fundamentals** alongside real-world engineering skills
-- Gain industry experience through **internships and professional projects**
-- Grow as a **backend / system-oriented software engineer**
-
----
-
-## 💻 Tech Stack
-
-<div align="center">
-
-<p>
-  <img width="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" />&nbsp;&nbsp;
-  <img width="50" src="https://img.icons8.com/color/48/python--v1.png" alt="Python" />&nbsp;&nbsp;
-  <img width="50" src="https://img.icons8.com/fluency/48/c-programming.png" alt="C" />&nbsp;&nbsp;
-  <img width="50" src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" />&nbsp;&nbsp;
-  <img width="50" src="https://img.icons8.com/color/48/html-5.png" alt="HTML5" />&nbsp;&nbsp;
-  <img width="50" src="https://img.icons8.com/color/48/css3.png" alt="CSS3" />&nbsp;&nbsp;
-  <img width="50" src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind CSS" />
-</p>
-
-<p>
-  <img width="50" src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring Boot" />&nbsp;&nbsp;
-  <img width="50" src="https://img.icons8.com/plasticine/100/react.png" alt="React" />&nbsp;&nbsp;
-  <img width="50" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="Node.js" />&nbsp;&nbsp;
-  <img width="50" src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL" />&nbsp;&nbsp;
-  <img width="50" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" />&nbsp;&nbsp;
-  <img width="50" src="https://img.icons8.com/color/48/mongo-db.png" alt="MongoDB" />
-</p>
-
-<p>
-  <img width="50" src="https://img.icons8.com/?size=100&id=DUsKDDZsg8FT&format=png&color=000000" alt="Redis" />&nbsp;&nbsp;
-<img width="50" src="https://cdn.simpleicons.org/apachekafka/FF6B35" alt="Apache Kafka"/>&nbsp;&nbsp;
-  <img width="50" src="https://img.icons8.com/color/48/docker.png" alt="Docker" />&nbsp;&nbsp;
-  <img width="50" src="https://img.icons8.com/color/48/git.png" alt="Git" />
-</p>
-
-</div>
-
----
-
-## ⚡ Current Focus
+### ⚡ Architectural Mindset & Focus
 
 ```java
-public class EngineeringFocus {
-    public static void main(String[] args) {
-        String[] activePursuits = {
-            "Enterprise Web Applications with Spring Boot",
-            "Microservices Architecture & RESTful APIs",
-            "Database Optimization & Performance Tuning",
-            "Cloud-Native Development using Docker",
-            "Advanced System Design Patterns"
-        };
+package dev.soumyadip;
 
-        for (String skill : activePursuits) {
-            System.out.println("🚀 Mastering: " + skill);
-        }
+import java.util.List;
+
+public record EngineeringPhilosophy(
+    String developer,
+    String primaryFocus,
+    List<String> corePillars,
+    String mission
+) {
+    public static void main(String[] args) {
+        var profile = new EngineeringPhilosophy(
+            "Soumyadip Adak",
+            "Enterprise Java & Distributed Systems",
+            List.of(
+                "Clean Architecture & Domain-Driven Design (DDD)",
+                "Robust Microservices with Spring Boot & Kafka",
+                "Database Performance Tuning & Vector Embeddings",
+                "Containerization, Scalability & Cloud Readiness"
+            ),
+            "Translating complex system challenges into elegant, resilient software."
+        );
+
+        System.out.printf("🚀 %s | %s%n", profile.developer(), profile.primaryFocus());
+        profile.corePillars().forEach(pillar -> System.out.println(" ⚙️ " + pillar));
     }
 }
 ```
 
 ---
-![GitHub GIF](githubgif.gif)
+
+### 🌱 Continuous Learning & Evolution
+
+<div align="center">
+
+| 🎯 High-Priority Deep Dives | 🧭 Future Frontiers |
+| :--- | :--- |
+| 🔹 **High-Level System Design (HLD)** — Distributed caching, sharding, and consensus | 🔮 **Kubernetes & Cloud Orchestration** — Production deployments & Helm charts |
+| 🔹 **Spring AI & Vector Databases** — Deep RAG pipelines and intelligent agent workflows | 🔮 **DevSecOps & Zero-Trust Security** — Automated CI/CD security scanning & secrets governance |
+| 🔹 **Kafka Event Streams** — Event sourcing, CQRS patterns, and consumer group balancing | 🔮 **Graph Databases (Neo4j)** — High-connectivity social and knowledge graph modeling |
+
+</div>
+
+---
+
+### 📫 Connect & Collaborate
+
+<div align="center">
+
+Let's discuss distributed systems, backend engineering, open-source projects, or potential opportunities.
 
 <p align="center">
-  <i>"Great software is built where strong fundamentals meet thoughtful system design."</i>
+  <a href="https://www.linkedin.com/in/soumyadip-adak-a19b03281" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linkedin&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linkedin&theme=light">
+      <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="46" height="46" alt="LinkedIn" />
+    </picture>
+  </a>&nbsp;&nbsp;
+  <a href="mailto:work.soumyadipadak@gmail.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=gmail&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=gmail&theme=light">
+      <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="46" height="46" alt="Email" />
+    </picture>
+  </a>&nbsp;&nbsp;
+  <a href="https://hisoumya.in" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="web-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="web-light.svg">
+      <img src="web-dark.svg" width="46" height="46" alt="Portfolio" />
+    </picture>
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/soumyadip-adak99" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=github&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=github&theme=light">
+      <img src="https://skillicons.dev/icons?i=github&theme=dark" width="46" height="46" alt="GitHub" />
+    </picture>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/soumyadip_adak8888" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=instagram&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=instagram&theme=light">
+      <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="46" height="46" alt="Instagram" />
+    </picture>
+  </a>&nbsp;&nbsp;
 </p>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="githubgif.gif" alt="Coding Animation" width="420px" />
+  <br>
+  <p>
+    <em>"Great software is built where strong fundamentals meet thoughtful system design."</em>
+  </p>
+  <sub>Crafted with passion & engineering precision by <strong>Soumyadip Adak</strong>.</sub>
+</div>
