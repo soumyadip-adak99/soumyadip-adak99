@@ -117,44 +117,37 @@ Let's discuss distributed systems, backend engineering, open-source projects, or
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linkedin&theme=dark">
       <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linkedin&theme=light">
-      <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="46" height="46" alt="LinkedIn" />
+      <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="30" height="30" alt="LinkedIn" />
     </picture>
   </a>&nbsp;&nbsp;
   <a href="mailto:work.soumyadipadak@gmail.com">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=gmail&theme=dark">
       <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=gmail&theme=light">
-      <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="46" height="46" alt="Email" />
+      <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="30" height="30" alt="Email" />
     </picture>
   </a>&nbsp;&nbsp;
   <a href="https://hisoumya.in" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="web-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="web-light.svg">
-      <img src="web-dark.svg" width="46" height="46" alt="Portfolio" />
+      <img src="web-dark.svg" width="30" height="30" alt="Portfolio" />
     </picture>
   </a>&nbsp;&nbsp;
   <a href="https://github.com/soumyadip-adak99" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=github&theme=dark">
       <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=github&theme=light">
-      <img src="https://skillicons.dev/icons?i=github&theme=dark" width="46" height="46" alt="GitHub" />
+      <img src="https://skillicons.dev/icons?i=github&theme=dark" width="30" height="30" alt="GitHub" />
     </picture>
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/soumyadip_adak8888" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=instagram&theme=dark">
       <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=instagram&theme=light">
-      <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="46" height="46" alt="Instagram" />
+      <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="30" height="30" alt="Instagram" />
     </picture>
   </a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/soumyadip.adak.99" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=facebook&theme=dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=facebook&theme=light">
-      <img src="https://skillicons.dev/icons?i=facebook&theme=dark" width="46" height="46" alt="Facebook" />
-    </picture>
-  </a>
 </p>
 
 </div>
